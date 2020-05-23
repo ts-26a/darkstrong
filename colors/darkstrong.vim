@@ -93,3 +93,5 @@ hi StatusLine guifg=#d0d0d0 guibg=#444444 gui=NONE
 hi Title guifg=#eb919a guibg=NONE gui=bold
 hi markdownLineBreak guifg=#505050 guibg=NONE gui=NONE
 hi def link pythonEscape SpecialChar
+Hi vimNotation 2 0 0
+Hi VimFunction 2 0 0
