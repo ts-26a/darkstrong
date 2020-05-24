@@ -96,3 +96,5 @@ hi def link pythonEscape SpecialChar
 Hi vimNotation 2 0 0
 Hi VimFunction 2 0 0
 hi Conceal guifg=#707070 guibg=NONE gui=NONE
+Hi RubyBlockParameter 5 0 0
+Hi RubyBlockParameterList 5 0 0
