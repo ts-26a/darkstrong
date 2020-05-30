@@ -64,7 +64,7 @@ Hi Macro 4 0 0
 Hi Precondit 4 0 0
 Hi Type 3 0 0
 Hi StorageClass 3 0 0
-Hi Struvture 3 0 0
+Hi Structure 3 0 0
 Hi Typedef 3 0 0
 Hi Special 9 0 0
 Hi SpecialChar str 0 0
@@ -72,7 +72,7 @@ Hi Tag 2 0 0
 Hi Delimiter 0 0 0
 Hi SpecialComment 2 0 0
 Hi Debug 6 0 0
-Hi Undelined 9 0 0
+Hi Undefined 9 0 0
 Hi Ignore 9 0 0
 Hi Error 0 err 0
 Hi Todo 2 0 0
